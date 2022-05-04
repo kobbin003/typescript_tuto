@@ -1,0 +1,7 @@
+tsc file_name/ tsc (incase of folder)
+tsc --watch file_name
+tsc --init
+
+config:
+"outDir": "./dist"
+"rootDir":"./src"
