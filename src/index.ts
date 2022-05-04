@@ -1,4 +1,3 @@
-console.log('trying out git')
 let id:number = 9
 console.log("ID:",id)
 
